@@ -1,0 +1,11 @@
+;; BEGIN madressa.edu.durban.
+
+;; STATUS: DONE
+
+hua.edu.durban.	86400	IN	NS	ns1.he.net. ; hua.edu.durban
+hua.edu.durban.	86400	IN	NS	ns2.he.net. ; hua.edu.durban
+hua.edu.durban.	86400	IN	NS	ns3.he.net. ; hua.edu.durban
+hua.edu.durban.	86400	IN	NS	ns4.he.net. ; hua.edu.durban
+hua.edu.durban.	86400	IN	NS	ns5.he.net. ; hua.edu.durban
+
+;; END hua.edu.durban.
